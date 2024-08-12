@@ -1,0 +1,23 @@
+{
+  "name": "encodemessages",
+  "version": "1.0.0",
+  "description": "gaderypoluki chiper",
+  "main": "script.js",
+  "scripts": {
+    "test": "testme",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "messageChiper"
+  },
+  "keywords": [
+    "message",
+    "encoder",
+    "chiper",
+    "gaderypoluki",
+    "decoder"
+  ],
+  "author": "ashesofthewake0",
+  "license": "ISC"
+}
